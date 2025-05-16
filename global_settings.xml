@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<global_settings>
+  <left_panel_font_size>20</left_panel_font_size>
+  <terminal_font_size>20</terminal_font_size>
+  <settings_font_size>20</settings_font_size>
+  <window_x>128</window_x>
+  <window_y>107</window_y>
+  <window_width>1600</window_width>
+  <window_height>1000</window_height>
+  <splitter_sizes>[300, 700]</splitter_sizes>
+</global_settings>

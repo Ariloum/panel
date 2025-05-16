@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<settings>
+  <display_name>ping-test-app</display_name>
+  <short_name/>
+  <path/>
+  <command>ping 8.8.8.8 -t</command>
+  <url/>
+  <autorun>True</autorun>
+  <group/>
+  <schedule_enabled>False</schedule_enabled>
+  <schedule_type>Interval</schedule_type>
+  <interval_value>5</interval_value>
+  <interval_unit>Seconds</interval_unit>
+  <schedule_time>09:00</schedule_time>
+  <parameters/>
+</settings>
